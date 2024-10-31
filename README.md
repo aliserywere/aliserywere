@@ -1,4 +1,4 @@
-# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=njeru-codes&icon=9&color=4)](https://visitcount.itsvg.in)
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=aliserywere&icon=9&color=4)](https://visitcount.itsvg.in)
 
 "Security is not an add-on; it's a core component of all of our systems." Dan Geer <br/>
 
@@ -13,7 +13,7 @@ I enjoy exploring the intricacies of cybersecurity by studying vulnerabilities a
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=njeru-codes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aliserywere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## archiements and CVEs.
