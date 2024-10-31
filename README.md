@@ -2,7 +2,7 @@
 
 "Security is not an add-on; it's a core component of all of our systems." Dan Geer <br/>
 
-Am a pasionate cybersecurity enthusiast dedicated to protecting systems and data from emerging threats. <br/>
+Am a  cybersecurity enthusiast dedicated to protecting systems and data from emerging threats. <br/>
 I’m constantly exploring new tools and techniques to stay ahead in the ever-evolving landscape of cybersecurity. <br/> <br/>
 
 I enjoy exploring the intricacies of cybersecurity by studying vulnerabilities and writing malware to understand how to better protect systems from threats. 
